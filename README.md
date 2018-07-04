@@ -1,1 +1,1 @@
-Documents of labmeeting for DKU ML lab
+Documents of lab meeting for DKU ML lab
