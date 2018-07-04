@@ -1,1 +1,1 @@
-# ml_lab
+Documents of labmeeting for DKU ML lab
